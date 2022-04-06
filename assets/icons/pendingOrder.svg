@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Pending_Order_Selected" data-name="Pending Order Selected" transform="translate(-3.36 -2.52)">
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="16" cy="16" r="16" transform="translate(3.36 2.52)" fill="#f19820"/>
+    <g id="surface1" transform="translate(10.561 9.691)">
+      <path id="Path_394" data-name="Path 394" d="M110.481,100.46a4.741,4.741,0,1,0,4.741,4.741A4.741,4.741,0,0,0,110.481,100.46Zm2,5.326h-2.023a.548.548,0,0,1-.548-.548v-2.033a.548.548,0,1,1,1.1,0v1.485h1.485a.548.548,0,1,1,0,1.1Z" transform="translate(-96.865 -92.314)" fill="#fff"/>
+      <path id="Path_395" data-name="Path 395" d="M91.51,70.855l1.112-.464a.552.552,0,0,1,.424,0l1.11.464V66.58H91.51Z" transform="translate(-85.401 -65.018)" fill="#fff"/>
+      <path id="Path_396" data-name="Path 396" d="M73.3,65.236a5.342,5.342,0,0,1,1.638.258V60.028a1.424,1.424,0,0,0-1.347-1.489H69.92v5.635a.624.624,0,0,1-.245.505.5.5,0,0,1-.3.1.509.509,0,0,1-.212-.047L67.5,63.967l-1.66.768a.5.5,0,0,1-.515-.054.624.624,0,0,1-.245-.505V58.54H61.417a1.423,1.423,0,0,0-1.347,1.489V73.487a1.424,1.424,0,0,0,1.347,1.489H68.27a6.933,6.933,0,0,1-.81-3.278C67.46,68.138,70.08,65.236,73.3,65.236Z" transform="translate(-60.07 -58.54)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
